@@ -1,0 +1,9 @@
+# Versões mínimas. Após a primeira instalação bem-sucedida, regenerar com
+# `pip freeze > requirements.txt` para travar as versões exatas.
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+matplotlib>=3.8
+seaborn>=0.13
+jupyterlab>=4.2
+pytest>=8.0
